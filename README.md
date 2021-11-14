@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Cloud Architecture.
 - 🌱 I’m currently learning Spring Boot.
 - 👯 I’m looking to collaborate on Spring Boot.
+- 🚴‍♀️ Know more about me on my [portfolio](https://navindurai.netlify.app/)
