@@ -55,10 +55,14 @@ Here are some ideas to get you started:
  
 <h3 align="center">Connect with me:</h3>
 <p align="center" style="margin-right:2px">
-<a href="https://www.linkedin.com/in/smnavindurai/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/smnavindurai/" style="color: #999" height="30" width="40" /></a>
+<!-- <a href="https://www.linkedin.com/in/smnavindurai/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/smnavindurai/" height="30" width="40" /></a>
 <a href="https://navindurai.netlify.app/" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/71096790?v=4" alt="Navin3d" height="30" width="40" /></a>
- <!-- <a href="https://navindurai.netlify.app/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Navin3d" height="30" width="40" /></a> -->
-<a href="https://www.instagram.com/mr_navin.s.m/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Navin3d" style="color: #999" height="30" width="40" /></a>  </p>
+ <a href="https://navindurai.netlify.app/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Navin3d" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mr_navin.s.m/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Navin3d" height="30" width="40" /></a>  </p> -->
  
+ <a href="https://www.linkedin.com/in/smnavindurai/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/smnavindurai/" height="30" width="40" /></a>
+<a href="https://navindurai.netlify.app/" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/71096790?v=4" alt="Navin3d" height="30" width="40" /></a>
+ <a href="https://navindurai.netlify.app/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Navin3d" height="30" width="40" /></a>
+<a href="https://www.instagram.com/mr_navin.s.m/" target="blank"><img align="center" src="https://i.pinimg.com/736x/94/40/9a/94409a775c02d7658dd6e7ba88429b63.jpg" alt="Navin3d" height="30" width="40" /></a>  </p>
 
 
