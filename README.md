@@ -60,7 +60,7 @@ Here are some ideas to get you started:
  <a href="https://navindurai.netlify.app/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Navin3d" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mr_navin.s.m/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Navin3d" height="30" width="40" /></a>  </p> -->
  
- <a href="https://www.linkedin.com/in/smnavindurai/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/smnavindurai/" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/smnavindurai/" target="blank"><img align="center" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" alt="https://www.linkedin.com/in/smnavindurai/" height="30" width="40" /></a>
 <a href="https://navindurai.netlify.app/" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/71096790?v=4" alt="Navin3d" height="30" width="40" /></a>
  <a href="https://navindurai.netlify.app/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Navin3d" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mr_navin.s.m/" target="blank"><img align="center" src="https://www.pngfind.com/pngs/m/144-1442428_instagram-logo-instagram-png-transparent-png.png" alt="Navin3d" height="30" width="40" /></a>  </p>
