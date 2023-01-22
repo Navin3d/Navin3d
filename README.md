@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 
-**Navin3d/Navin3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!-- **Navin3d/Navin3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Cloud Architecture.
 - 🌱 I’m currently learning Spring Boot.
 - 👯 I’m looking to collaborate on Spring Boot.
-- 🚴‍♀️ Know more about me on my [portfolio](https://navindurai.netlify.app/)
+- 🚴‍♀️ Know more about me on my [portfolio](https://navindurai.netlify.app/) -->
 
 
 ### 👋 Hello World! This is  <a href="https://www.linkedin.com/in/smnavindurai/" target="_blank">S M Navin Durai</a>
@@ -38,6 +38,7 @@ Here are some ideas to get you started:
 - 😄 Connect with me <a href="https://www.linkedin.com/in/smnavindurai/" target="_blank">Navin Durai S M</a>
 - 😄 Together, we can Grow.
 - ⚡ Fun fact: I hate Coffee, but I code.
+- 🚴‍♀️ Know more about me on my [portfolio](https://navindurai.netlify.app/)
 </strong>
 
 <hr>
