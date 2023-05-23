@@ -17,11 +17,16 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Spring Boot.
 - 🚴‍♀️ Know more about me on my [portfolio](https://navindurai.netlify.app/) -->
 
+<!--
+
 
 ### 👋 Hello World! This is  <a href="https://www.linkedin.com/in/smnavindurai/" target="_blank">S M Navin Durai</a>
  
 <!--  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="440" height="340" />  -->
-  <img align="right" alt="GIF" src="https://img.freepik.com/free-vector/cartoon-working-day-scene-illustration_52683-62607.jpg?w=900" width="440" height="340" />
+ 
+ <!--
+
+ <img align="right" alt="GIF" src="https://img.freepik.com/free-vector/cartoon-working-day-scene-illustration_52683-62607.jpg?w=900" width="440" height="340" />
  
  
 <strong>
