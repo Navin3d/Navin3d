@@ -1,23 +1,3 @@
-<!-- Looking Forward to Switch My Carrier What if i was A Chef!... -->
-
-### Hi there 👋
-
-<!-- **Navin3d/Navin3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<!-- 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Cloud Architecture.
-- 🌱 I’m currently learning Spring Boot.
-- 👯 I’m looking to collaborate on Spring Boot.
-- 🚴‍♀️ Know more about me on my [portfolio](https://navindurai.netlify.app/) -->
-
-
 ### 👋 Hello World! This is  <a href="https://www.linkedin.com/in/smnavindurai/" target="_blank">S M Navin Durai</a>
  
 <!--  <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="440" height="340" />  -->
@@ -63,10 +43,4 @@ Here are some ideas to get you started:
 <a href="https://navindurai.netlify.app/" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/71096790?v=4" alt="Navin3d" height="30" width="40" /></a>
  <a href="https://navindurai.netlify.app/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Navin3d" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mr_navin.s.m/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Navin3d" height="30" width="40" /></a>  </p>
- 
- 
-<!--  
- <a href="https://www.linkedin.com/in/smnavindurai/" target="blank"><img align="center" src="https://brandlogos.net/wp-content/uploads/2016/06/linkedin-logo-512x512.png" alt="https://www.linkedin.com/in/smnavindurai/" height="30" width="40" /></a>
-<a href="https://navindurai.netlify.app/" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/71096790?v=4" alt="Navin3d" height="30" width="40" /></a>
- <a href="https://navindurai.netlify.app/" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/twitter-logo-png/twitter-bird-symbols-png-logo-0.png" alt="Navin3d" height="30" width="40" /></a>
-<a href="https://www.instagram.com/mr_navin.s.m/" target="blank"><img align="center" src="https://www.pngfind.com/pngs/m/144-1442428_instagram-logo-instagram-png-transparent-png.png" alt="Navin3d" height="30" width="40" /></a>  </p> -->
+
