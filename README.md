@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
- <a href="https://logasubramani-portfolio.netlify.app/" target="blank">
+ <a href="https://navindurai.netlify.app/" target="blank">
   <img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="alsiam" />
  </a>
  <a href="https://www.linkedin.com/in/smnavindurai/" target="_blank">
