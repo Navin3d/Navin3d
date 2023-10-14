@@ -39,7 +39,7 @@
 
 <br/>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/cartoon-working-day-scene-illustration_52683-62607.jpg">
 
 - 🔭 I’m currently working on [Blockchain projects]<a href="https://github.com/Navin3d" target="blank">**Checkout**</a>
 
