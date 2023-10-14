@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
  </a> 
  <a href="https://www.codechef.com/users/" target="_blank">
-  <img src="https://img.shields.io/badge/Codechef-20BEFF?&style=for-the-badge&logo=codechef&logoColor=white" alt="alsiam"  />
+  <img src="https://img.shields.io/badge/Codechef-20BEFF?&style=for-the-badge&logo=google&logoColor=white" alt="alsiam"  />
   </a> 
   <a href="https://www.hackerrank.com/" target="_blank">
   <img src="https://img.shields.io/badge/HackerRank-50REFF?&style=for-the-badge&logo=hackerrank&logoColor=white" alt="alsiam"  />
