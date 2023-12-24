@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Navin Durai S M</h1>
+<!--h1 align="center">Hi 👋, I'm Navin Durai S M</h1>
 
 <p align="center"> 
   <samp>
@@ -74,12 +74,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=61DAFB)
 
-
-<!--![SASS Badge](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) -->
 <br/>
 <h3>Statistical Data :-</h3>
 <hr/>
@@ -91,7 +85,6 @@
 
 <br>
 
-<!--<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=Navin3d&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="loga" /></p> -->
 <br/>
 
 <br></br>
