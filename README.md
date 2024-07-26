@@ -1,4 +1,3 @@
-<!--
 <h1 align="center">Hi 👋, I'm Navin Durai S M</h1>
 
 <p align="center"> 
@@ -93,4 +92,3 @@
 <a align="center" href="https://github.com/Navin3d/github-profile-trophy">
             <img src="https://github-profile-trophy.vercel.app/?username=Navin3d&row=1&column=10&theme=darkhub" alt="trophy">
 </a>
--->
