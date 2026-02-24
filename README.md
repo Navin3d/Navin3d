@@ -4,7 +4,7 @@
   <samp>
     <a href="https://www.google.com/search?q=navin+durai+s+m&oq=navin+durai+s+m&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRhAMgYIAhBFGDwyBggDEEUYPDIGCAQQRRg80gEINjE1OGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8">「 Google Me 」</a>
     <br>
-    「 I am a Blockchain developer from <b>India</b> 」
+    「 I am a AI/Blockchain developer from <b>India</b> 」
     <br>
     <br>
   </samp>
@@ -34,8 +34,6 @@
   <img align="right" src="https://komarev.com/ghpvc/?username=Navin3d&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
-
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
 <br/>
 
@@ -74,7 +72,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=61DAFB)
 
-<br/>
+<!--br/>
 <h3>Statistical Data :-</h3>
 <hr/>
 <br/>
